@@ -1,7 +1,6 @@
 // date //
 
-var todayDate = moment().format('dddd, MMM Do YYYY');
-$("#currentDay").html(todayDate);
+var currentTime = new Date();
 
 
 $(document).ready(function () {

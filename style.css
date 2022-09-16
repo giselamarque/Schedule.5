@@ -82,7 +82,7 @@ body {
   
  
  
-  @media screen and (max-width: 767px), screen and (max-width: 575px) {
+  @media screen and (max-width: 765px), screen and (max-width: 575px) {
     .row {
       height: auto;
       margin-top: 20px;
